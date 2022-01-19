@@ -1,4 +1,3 @@
 ﻿
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello");
-Console.WriteLine("Hello, Sasha");
+Console.WriteLine("Введите первое число");
+int A = int.Parse(Console.ReadLine());
